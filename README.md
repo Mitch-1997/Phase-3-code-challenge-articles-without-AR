@@ -77,7 +77,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 ### Object Relationship Methods
 
 #### Article
-
+git
 - `Article#author`
   - Returns the author for that given article
 - `Article#magazine`
