@@ -9,12 +9,12 @@ end
 author_1 = Author.new("S. mitch")
 author_2 = Author.new("M. ngetich")
 author_3 = Author.new("j. jepsergon")
-#Magazines
+#Magazines Class
 magazine_1 = Magazine.new("kenya Nation", "Good morning")
 magazine_2 = Magazine.new("Daily nation", "gym")
 magazine_3 = Magazine.new("Relationship", "modern")
 magazine_4 = Magazine.new("sunday Nation", "parenting")
-#Articles
+#Articles Class
 article_1 = Article.new(author_1, magazine_1, "Jua Kenya")
 article_2 = Article.new(author_1, magazine_2, "Kenya Kwanza")
 article_3 = Article.new(author_2, magazine_1, "Azimio La Umoja")
