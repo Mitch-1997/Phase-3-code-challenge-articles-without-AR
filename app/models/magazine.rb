@@ -32,8 +32,5 @@ class Magazine
     (main_authors<<key)}
     main_authors 
   end
-
-
-
-
+  
 end
